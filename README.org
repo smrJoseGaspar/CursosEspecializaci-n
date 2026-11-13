@@ -6,7 +6,7 @@
 #+title: README - Cursos de Especialización
 #+author: José Gaspar Sánchez Garcia
 #+email: jg.sanchezgarcia@edu.gva.es
-#+language: en
+#+language: es
 #+select_tags: export
 #+exclude_tags: noexport
 #+creator: Emacs 31.1 (Org mode 9.8.7)
@@ -26,5 +26,35 @@
 #+date: \today
 
 * Informática y Comunicaciones
+- [[https://ceice.gva.es/es/web/formacion-profesional/publicador-de-cursos-especialitzacio/-/asset_publisher/MRg14dkTb9DQ/content/ciberseguridad-en-entornos-de-las-tecnolog%25C3%25ADas-de-la-informaci%25C3%25B3n-duplica-0-1?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_MRg14dkTb9DQ_assetEntryId=399256030&_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_MRg14dkTb9DQ_redirect=https%3A%2F%2Fceice.gva.es%2Fes%2Fweb%2Fformacion-profesional%2Fpublicador-de-cursos-especialitzacio%3Fp_p_id%3Dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_MRg14dkTb9DQ%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_MRg14dkTb9DQ_cur%3D0%26p_r_p_resetCur%3Dfalse%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_MRg14dkTb9DQ_assetEntryId%3D399256030][Desarrollo de Aplicaciones en Lenguaje Python]].
+- [[https://ceice.gva.es/es/web/formacion-profesional/publicador-de-cursos-especialitzacio/-/asset_publisher/MRg14dkTb9DQ/content/desarrollo-de-videojuegos-y-realidad-virtual?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_MRg14dkTb9DQ_assetEntryId=390408768&_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_MRg14dkTb9DQ_redirect=https%3A%2F%2Fceice.gva.es%2Fes%2Fweb%2Fformacion-profesional%2Fpublicador-de-cursos-especialitzacio%3Fp_p_id%3Dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_MRg14dkTb9DQ%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_MRg14dkTb9DQ_cur%3D0%26p_r_p_resetCur%3Dfalse%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_MRg14dkTb9DQ_assetEntryId%3D390408768][Desarrollo de Videojuegos y Realidad Virtual]].
+- [[https://ceice.gva.es/es/web/formacion-profesional/publicador-de-cursos-especialitzacio/-/asset_publisher/MRg14dkTb9DQ/content/desplegament-de-productes-programari-en-contenidors?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_MRg14dkTb9DQ_assetEntryId=406196569&_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_MRg14dkTb9DQ_redirect=https%3A%2F%2Fceice.gva.es%2Fca%2Fweb%2Fformacion-profesional%2Fpublicador-de-cursos-especialitzacio%3Fp_p_id%3Dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_MRg14dkTb9DQ%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_MRg14dkTb9DQ_cur%3D0%26p_r_p_resetCur%3Dfalse%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_MRg14dkTb9DQ_assetEntryId%3D406196569][Despliegue de productos software en contenedores]].
+- [[https://ceice.gva.es/es/web/formacion-profesional/publicador-de-cursos-especialitzacio/-/asset_publisher/MRg14dkTb9DQ/content/administraci%25C3%2593n-de-recursos-y-servicios-en-la-nube?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_MRg14dkTb9DQ_assetEntryId=390408798&_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_MRg14dkTb9DQ_redirect=https%3A%2F%2Fceice.gva.es%2Fes%2Fweb%2Fformacion-profesional%2Fpublicador-de-cursos-especialitzacio%3Fp_p_id%3Dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_MRg14dkTb9DQ%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_MRg14dkTb9DQ_cur%3D0%26p_r_p_resetCur%3Dfalse%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_MRg14dkTb9DQ_assetEntryId%3D390408798][RECURSOS Y SERVICIOS EN LA NUBE]].
 
+** Desarrollo de Aplicaciones en Lenguaje Python
+
+*** Libros web
+- [[https://www.aprendemachinelearning.com/regresion-lineal-en-espanol-con-python/][Aprende Machine Learning con Python.]]
+- [[https://libropython.es/][Think Python en español]].
+- [[https://ellibrodepython.com/][El Libro de Python]].
+
+*** Canales de Telegram
+- [[https://t.me/profesoresciclosinformatica/54497][Telegram: Especialización Desarrollo Aplicaciones en Python.]]
+
+
+
+** Desarrollo de Videojuegos y Realidad Virtual
+
+*** Libros web
+- [[https://elhacker.info/manuales/Juegos/Desarrollo-Videojuegos-3-Tecnicas-Avanzadas.pdf][https://elhacker.info/manuales/Juegos/Desarrollo-Videojuegos-3-Tecnicas-Avanzadas.pdf (UCLM).]]
+
+*** Canales de Telegram
+
+- [[https://t.me/profesoresciclosinformatica/43558][Telegram: Especialización - Desarrollo de videojuegos.]]
+  
 * Inteligencia Artificial y Data
+- [[https://ceice.gva.es/es/web/formacion-profesional/publicador-de-cursos-especialitzacio/-/asset_publisher/MRg14dkTb9DQ/content/aprendizaje-autom%25C3%25A1tico-gesti%25C3%25B3n-de-datos-y-entrenamiento?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_MRg14dkTb9DQ_assetEntryId=406198055&_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_MRg14dkTb9DQ_redirect=https%3A%2F%2Fceice.gva.es%2Fes%2Fweb%2Fformacion-profesional%2Fpublicador-de-cursos-especialitzacio%3Fp_p_id%3Dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_MRg14dkTb9DQ%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_MRg14dkTb9DQ_cur%3D0%26p_r_p_resetCur%3Dfalse%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_MRg14dkTb9DQ_assetEntryId%3D406198055][Aprendizaje automático: gestión de datos y entrenamiento]].
+- [[https://ceice.gva.es/es/web/formacion-profesional/publicador-de-cursos-especialitzacio/-/asset_publisher/MRg14dkTb9DQ/content/aprendizaje-autom%25C3%25A1tico-instalaci%25C3%25B3n-despliegue-y-explotaci%25C3%25B3n-de-sistemas?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_MRg14dkTb9DQ_assetEntryId=406198880&_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_MRg14dkTb9DQ_redirect=https%3A%2F%2Fceice.gva.es%2Fes%2Fweb%2Fformacion-profesional%2Fpublicador-de-cursos-especialitzacio%3Fp_p_id%3Dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_MRg14dkTb9DQ%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_MRg14dkTb9DQ_cur%3D0%26p_r_p_resetCur%3Dfalse%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_MRg14dkTb9DQ_assetEntryId%3D406198880][Aprendizaje automático: instalación, despliegue y explotación de sistemas]].
+
+* Canales de Telegram  
+-[[https://t.me/profesoresciclosinformatica/1][https://t.me/profesoresciclosinformatica/1]]
